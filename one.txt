@@ -1,1 +1,5 @@
 this is the first file
+
+trying to push code to github
+// remote-name. -> it is the name of the remote repository that you want to push to
+// branch-name. -> it is the name of the branch that you want to push
